@@ -78,7 +78,7 @@ The final phase involved creating an **interactive dashboard in Power BI**, inte
 ## 🧰 Tools & Technologies Used  
 | Category | Tools |
 |-----------|-------|
-| **Data Cleaning & EDA** | Python, Pandas, NumPy |
+| **Data Cleaning & EDA** | Python, Pandas|
 | **Database Management** | MySQL |
 | **Visualization** | Power BI |
 | **Data Handling** | Excel, CSV |
