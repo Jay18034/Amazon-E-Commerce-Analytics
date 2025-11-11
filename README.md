@@ -59,7 +59,7 @@ The final phase involved creating an **interactive dashboard in Power BI**, inte
 
 ## 📊 Power BI Dashboard Preview
 
-![Dashboard](https://github.com/Jay18034/amazon_powerbi_project/blob/main/Screenshot 2025-11-11 154110)
+
 
 
 ### Key Dashboard Features:
