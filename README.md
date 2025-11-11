@@ -62,16 +62,15 @@ The final phase involved creating an **interactive dashboard in Power BI**, inte
 - **Customer Segmentation:** Demographics by age, gender, and location  
 - **Product Performance:** Best-selling categories and subcategories  
 - **Sales Trends:** Monthly and seasonal trends  
-- **Channel Insights:** Online vs. offline sales analysis  
-- **Payment Analysis:** Payment mode distribution and transaction share  
+- **Channel Insights:** Online vs. offline sales analysis   
 
 ### Visuals Used:
-- Clustered Column & Line Chart → Monthly Sales Trends  
-- Donut Chart → Gender-based Revenue Share  
-- Tree Map → Product Category Performance  
-- Bar Chart → Top Customers & Products  
-- Gauge → Discount Impact  
-- Slicers → Filter by Category, Location, and Channel  
+- Clustered Column & Line Chart → Sales and Avg Revenue trends  
+- Donut Chart → Location-based Revenue Share  
+- Line Chart → Monthly Revenue Trend  
+- Staked Bar Chart → Sub_category wise Sales  
+- Water Fall Chart → Net Sales by Sub_category & Sales Channel  
+- Slicers → Filter by Gender, Category, and Channel  
 
 ---
 
