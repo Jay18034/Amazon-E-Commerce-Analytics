@@ -94,8 +94,7 @@ The final phase involved creating an **interactive dashboard in Power BI**, inte
 - Top 10% customers accounted for nearly 40% of total revenue, indicating strong customer loyalty potential.  
 
 ---
-
-## 🧑‍💻 7. Author  
-**Jayakrishna Budati**  
-📧 Email: [jay.budati@gmail.com](mailto:jay.budati@gmail.com)  
-🔗 [LinkedIn](#) | [GitHub](#)
+### ⚠️ Disclaimer  
+This project is purely for **educational and portfolio purposes**.  
+It uses **sample e-commerce data** inspired by real-world online retail operations.  
+The project is **not affiliated with, sponsored by, or endorsed by Amazon or any related entity**.
