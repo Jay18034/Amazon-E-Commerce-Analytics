@@ -57,6 +57,11 @@ Structured analysis was conducted in **MySQL** to derive actionable insights:
 
 The final phase involved creating an **interactive dashboard in Power BI**, integrating insights from both Python and MySQL.
 
+## 📊 Power BI Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
+
+
 ### Key Dashboard Features:
 - **Sales Overview:** Revenue, profit, discount, and order volume KPIs  
 - **Customer Segmentation:** Demographics by age, gender, and location  
