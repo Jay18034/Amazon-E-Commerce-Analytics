@@ -59,7 +59,7 @@ The final phase involved creating an **interactive dashboard in Power BI**, inte
 
 ## 📊 Power BI Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![ERD](C:\Users\jayja\OneDrive\Pictures\Screenshots)
 
 
 ### Key Dashboard Features:
